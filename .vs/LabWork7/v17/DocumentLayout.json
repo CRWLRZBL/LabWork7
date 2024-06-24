@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LabWork7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDF350B-2340-4455-9DBF-270C50C19924}|LabWork7\\Task1.csproj|d:\\labwork7\\labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDF350B-2340-4455-9DBF-270C50C19924}|LabWork7\\Task1.csproj|solutionrelative:labwork7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDF350B-2340-4455-9DBF-270C50C19924}|LabWork7\\Task1.csproj|d:\\labwork7\\labwork7\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDF350B-2340-4455-9DBF-270C50C19924}|LabWork7\\Task1.csproj|solutionrelative:labwork7\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\LabWork7\\LabWork7\\Patient.cs",
+              "RelativeDocumentMoniker": "LabWork7\\Patient.cs",
+              "ToolTip": "D:\\LabWork7\\LabWork7\\Patient.cs",
+              "RelativeToolTip": "LabWork7\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:35:30.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LabWork7\\LabWork7\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork7\\Program.cs",
+              "ToolTip": "D:\\LabWork7\\LabWork7\\Program.cs",
+              "RelativeToolTip": "LabWork7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:35:30.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
